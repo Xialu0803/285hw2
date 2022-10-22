@@ -1,3 +1,4 @@
+Flask
 admin==0.0.1
 appdirs==1.4.4
 argon2-cffi==21.1.0
