@@ -1,3 +1,4 @@
+numpy==1.21.4
 
 yfinance==0.1.78
 
@@ -12,10 +13,12 @@ Jinja2>=3.0
 lazy-object-proxy==1.4.3
 MarkupSafe>=2.0.0
 mccabe==0.6.1
-numpy==1.19.2
 pycodestyle==2.6.0
 pylint==2.6.0
 toml==0.10.1
 Werkzeug>=2.2.2
 wrapt==1.12.1
 Flask~=2.2.2
+
+
+
