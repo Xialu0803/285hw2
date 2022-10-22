@@ -2,8 +2,6 @@
 # HW2
 import yfinance as yf
 import datetime
-import traceback
-import sys
 
 
 def main():
@@ -38,7 +36,7 @@ def main():
                 s1=s1+"(-%" + str(round(abs(percentChange),2))+")"
             else:
                 s1 = s1 + "(+%" + str(round(abs(percentChange),2)) + ")"
-                print(s1)
+            print(s1)
         except Exception as e: print(e)
 
 
