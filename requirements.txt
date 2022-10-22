@@ -90,3 +90,5 @@ widgetsnbextension==3.5.2
 wsproto==1.1.0
 xgboost==1.5.1
 yfinance==0.1.78
+
+Flask~=2.2.2
